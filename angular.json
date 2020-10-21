@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tab-transposer"
+    }
+  },
+  "defaultProject": "tab-transposer",
+  "cli": {
+    "analytics": false
+  }
 }
